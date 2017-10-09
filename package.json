@@ -1,6 +1,6 @@
 {
   "name": "apollo-permissions-layer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Module to return apollo schema & resolvers depending of permissions",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   "author": "HungryUp",
   "license": "GPL-3.0",
   "dependencies": {
-    "graphql": "^0.10.5",
-    "graphql-tools": "^1.2.1",
+    "graphql": "^0.11.7",
+    "graphql-tools": "^2.2.1",
     "lodash.merge": "^4.6.0",
     "readdir": "0.0.13"
   }
